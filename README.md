@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Matthew 
 - 👀 I’m interested in Data science, Machine Learning
-- 🌱 I’m currently learning more on ML
+- 🌱 I’m currently learning more on ML/Algorithms/Problem-Solving
